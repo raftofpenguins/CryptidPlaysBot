@@ -10,11 +10,11 @@ const tmi = require('tmi.js');
 // Define configuration options
 const opts = {
   identity: {
-    username: <CryptidPlaysBot>,
-    password: <oauth:5t8fl59id6peknqtn5ua6h04sjtyo8>
+    username: 'CryptidPlaysBot',
+    password: 'oauth:5t8fl59id6peknqtn5ua6h04sjtyo8'
   },
   channels: [
-    <cryptid_plays>
+    'cryptid_plays'
   ]
 };
 
